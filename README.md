@@ -20,5 +20,5 @@ The menu provides various options to perform different banking operations. Users
 - ATM Class: Contains methods for handling different banking operations like checking balance, withdrawing money, depositing money, changing PIN, transferring money, and viewing the mini-statement.
 - ATM_Machine Class: The main class to start the application, initializing the ATM instance and user interaction through the console.
 
-# Working
+# Working of the project : 
 ![image](https://github.com/aslams2020/ATM-Machine-Application/assets/131389695/701f43a9-a689-4b8d-b45c-da1789f139f4)
